@@ -1,0 +1,6 @@
+[package]
+name = "day-1-taxicab"
+version = "0.1.0"
+authors = ["Jonathan Dahan <hi@jonathan.is>"]
+
+[dependencies]
